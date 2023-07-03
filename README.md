@@ -1,6 +1,6 @@
 # Medical Appointments Dataset
 
-This dataset collects information from 100k medical appointments in Brazil and focuses on the question of whether or not patients show up for their appointments. It includes several characteristics about the patients in each row.
+This dataset collects information from 100k medical appointments and focuses on the question of whether or not patients show up for their appointments. It includes several characteristics about the patients in each row.
 
 ## Dataset Information
 
